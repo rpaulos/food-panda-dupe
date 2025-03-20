@@ -2,7 +2,8 @@
 ## Food Delivery Application  
 
 ## Overview  
-This is a **Food Delivery Application** inspired by **Foodpanda**, designed to provide an easy and efficient way for users to order food online. The project is currently in the early stages, with the **UI design** and **Entity Relationship Diagram (ERD)** in progress. Future plans include implementing key features similar to Foodpanda, such as restaurant listings, order tracking, and payment integration.  
+This is a **Food Delivery Application** inspired by **Foodpanda**, designed to provide an easy and efficient way for users to order food online. The project is currently in the early stages, with the **UI design** and **Entity Relationship Diagram (ERD)** in progress. Future plans include implementing key features similar to Foodpanda, such as restaurant listings, order tracking, and payment integration. 
+(This project is not intended to create and deliver actual orders.)
 
 ## Purpose  
 This project aims to:  
